@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ultrade-org-ultrade-mcp-badge.png)](https://mseep.ai/app/ultrade-org-ultrade-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@ultrade-org/ultrade-mcp)](https://smithery.ai/server/@ultrade-org/ultrade-mcp)
 # Ultrade MCP Server
 
